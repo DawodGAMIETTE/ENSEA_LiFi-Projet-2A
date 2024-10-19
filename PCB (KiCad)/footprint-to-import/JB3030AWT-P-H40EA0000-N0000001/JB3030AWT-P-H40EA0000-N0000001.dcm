@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP JB3030AWT-P-H40EA0000-N0000001
+D LED, HB, NEUTRAL WHITE, 4000K, 33.5LM; Product Range:J 3030 Series; LED Colour:Neutral White; Viewing Angle:120; Luminous Flux @ Test:33.5lm; CCT:4000K; Forward Current If Max:240mA; Forward Voltage @ Test:2.8V; Forward Current @ RoHS Compliant: Yes
+K
+F https://www.arrow.com/en/products/jb3030awt-p-h40ea0000-n0000001/cree-led?region=europe
+$ENDCMP
+#
+#End Doc Library
